@@ -1,5 +1,8 @@
 # ShadowMatic
 Shadowmatic is a puzzle game. The player must reposition and rotate one or more objects in such a way that their shadow forms the desired object or animal.
-![The main menu](https://github.com/Nurygus/ShadowMatic/blob/master/readme/main_menu.jpg)
-![Add custom model via "Add" button](https://github.com/Nurygus/ShadowMatic/blob/master/readme/add_custom_model.jpg)
-![Play screen](https://github.com/Nurygus/ShadowMatic/blob/master/readme/play.jpg)
+<p>The main menu</p>
+<a href="https://ibb.co/DVDDpjs"><img src="https://i.ibb.co/5MWWFJt/main-menu.jpg" alt="main-menu" border="0"></a>
+<p>Add custom model via "Add" button</p>
+<a href="https://ibb.co/RCX4Myb"><img src="https://i.ibb.co/xMn8cHL/add-custom-model.jpg" alt="add-custom-model" border="0"></a>
+<p>Play screen</p>
+<a href="https://ibb.co/HDzpT0R"><img src="https://i.ibb.co/bgBR5xY/play.jpg" alt="play" border="0"></a>
